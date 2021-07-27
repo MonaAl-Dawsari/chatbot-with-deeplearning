@@ -26,3 +26,9 @@ Then write this command wich will go to the file Requirements.txt and install th
 * Now that you have the project and installed all the depentences you can run the chatbot by using this command.
 <br>Note:make sure you are at the right directory so you can run the script. 
 <br> `run python main.py`
+# Result
+After run the last command the bot will Start train and you can response to it and have a smart response by using the anaconda promot. But to use the bot at the real world we need to create an api so can we use it on our website. 
+
+
+
+
