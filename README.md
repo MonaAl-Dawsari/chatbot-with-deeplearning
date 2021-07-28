@@ -27,8 +27,8 @@ Then write this command wich will go to the file Requirements.txt and install th
 <br>Note:make sure you are at the right directory so you can run the script. 
 <br> `run python main.py`
 # Result
-After run the last command the bot will Start train and you can response to it and have a smart response by using the anaconda promot. But to use the bot at the real world we need to create an api so can we use it on our website. 
-
+After run the last command the bot will Start train and you can response to it and have a smart response by using the anaconda promot. But to use the bot at the real world project we need to create an api so can we use it on our website. 
+![](https://github.com/MonaAl-Dawsari/chatbot-with-deeplearning/blob/main/result.png) 
 
 
 
